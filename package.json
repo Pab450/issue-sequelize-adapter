@@ -1,0 +1,15 @@
+{
+  "name": "issue-sequelize-adapter",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@auth/sequelize-adapter": "^1.0.0"
+  }
+}
